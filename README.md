@@ -14,7 +14,7 @@ Add or Import Project
 
 select Git
 
-https://github.com/2davecollins/golf.git
+https://github.com/CR80/SeedValley
 
 click ADD
 
@@ -46,7 +46,7 @@ in the workspaces page click + in the action column of selected workspace
 
 click + add project
 
-select git and add url https://github.com/2davecollins/golf.git
+select git and add url https://github.com/CR80/SeedValley
 
 Git Remotes
 
